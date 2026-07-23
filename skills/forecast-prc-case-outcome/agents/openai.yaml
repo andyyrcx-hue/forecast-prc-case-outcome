@@ -1,4 +1,0 @@
-interface:
-  display_name: "中国类案裁判预测"
-  short_description: "查类案判决倾向、法官裁判样本并预测案件怎么判"
-  default_prompt: "使用 $forecast-prc-case-outcome 查一下类似案例的判决倾向，并预测这个案子怎么判。"
