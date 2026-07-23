@@ -1,0 +1,28 @@
+{
+  "cases": [
+    {
+      "case_id": "fictional-sample-a",
+      "ratings": {
+        "issue": 92,
+        "decisive_facts": 88,
+        "legal_relation": 95,
+        "applied_law": 86,
+        "evidence_structure": 80,
+        "procedural_posture": 90,
+        "temporal_context": 75
+      }
+    },
+    {
+      "case_id": "fictional-sample-b",
+      "ratings": {
+        "issue": 78,
+        "decisive_facts": 35,
+        "legal_relation": 90,
+        "applied_law": 82,
+        "evidence_structure": 58,
+        "procedural_posture": 85,
+        "temporal_context": 70
+      }
+    }
+  ]
+}
